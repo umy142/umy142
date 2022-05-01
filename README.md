@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @umy142
-- 🌱 I’m currently learning Python
-- I created a mindmap structuring all basic knowledge about Python for beginners. For more details 👇
-- https://mm.tt/2016604601?t=4UoiM2pGGD
+- 🌱 I'm simply a noob 😇
